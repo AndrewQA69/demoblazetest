@@ -4,7 +4,6 @@
 Аутентифікація
 Реєстрація (Sign up)
 Вхід (Log in)
-Вихід (Log out)
 
 Каталог товарів
 Сортування по категоріях (Phones, Laptops, Monitors)
@@ -19,11 +18,10 @@
 Оформлення замовлення
 Заповнення форми (Name, Country, Credit card)
 Помилки при порожніх полях
-Перевірка успішного повідомлення
 
 API тестування (через Chrome DevTools/Postman)
-POST /login
-POST /signup
-POST /deleteitem
-GET /entries
+login
+signup
+перевірка токену
+додавання товару в корзину
 
