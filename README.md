@@ -1,27 +1,35 @@
 # description
+What will I test
 
-Що я буду тестувати?
-Аутентифікація
-Реєстрація (Sign up)
-Вхід (Log in)
+🔐 Authentication
+Sign Up
 
-Каталог товарів
-Сортування по категоріях (Phones, Laptops, Monitors)
-Відкриття сторінки товару
-Деталі товару
+Log In
 
-Кошик (Cart)
-Додавання товару в кошик
-Видалення товару з кошика
-Оформлення замовлення (Place Order)
+🛍️ Product Catalog
+Sorting by Categories (Phones, Laptops, Monitors)
 
-Оформлення замовлення
-Заповнення форми (Name, Country, Credit card)
-Помилки при порожніх полях
+Opening Product Page
 
-API тестування (через Chrome DevTools/Postman)
-login
-signup
-перевірка токену
-додавання товару в корзину
+Viewing Product Details
 
+🛒 Shopping Cart
+Add Product to Cart
+
+Remove Product from Cart
+
+Place Order
+
+📦 Order Placement
+Fill Out Order Form (Name, Country, Credit Card)
+
+Validation Errors for Empty Fields
+
+🔌 API Testing (via Chrome DevTools / Postman)
+Login
+
+Sign Up
+
+Token Validation
+
+Add Product to Cart
